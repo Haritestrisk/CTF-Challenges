@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHaritestrisk%2FCTF-Challenges.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHaritestrisk%2FCTF-Challenges?ref=badge_shield)
+
 Security CTF Challenges
 =======================
 
@@ -29,3 +31,7 @@ Kudos to [@serranos](https://github.com/serranos), [@tomahock](https://github.co
 
 --
 team@probely.com
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHaritestrisk%2FCTF-Challenges.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHaritestrisk%2FCTF-Challenges?ref=badge_large)
